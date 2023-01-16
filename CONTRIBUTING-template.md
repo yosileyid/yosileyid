@@ -90,3 +90,8 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+
+<!-- 
+    TODO incorporate Atom/CONTRIBUTING.md  
+    https://github.com/atom/atom/blob/master/CONTRIBUTING.md
+-->
