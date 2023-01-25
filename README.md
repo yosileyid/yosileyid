@@ -4,9 +4,9 @@ ANYTHING JavaScript, TypeScript/Deno, ECMAScript, or python, I would love to hel
 
 ## :construction_worker: What I'm Working On
 
-I am currently working on the FreeCodeCamp curriculum. I really like the User Interface and the way they teach the material. I am keeping the certificates in [Projects/fcc/Certificates](https://github.com/jparkton/jparkton.github.io/tree/main/projects/fcc/Certificates) and am working on getting all of their certificates.
+I am currently working on the FreeCodeCamp curriculum. I really like the User Interface and the way they teach the material. I am keeping the certificates in [Projects/fcc/Certificates](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates) and am working on getting all of their certificates. I recently completed the "Responsive Web Design" certification. I am working on the projects needed to complete the "Data Structures &amp; Algorithms" section. I am keeping a blog over on Patreon to write about my experiences along the way and what I am doing.
 
 ### :mailbox: Get in touch
 
-- **Discord:** #based.sephardi#8198
-- **Email:** creekhippybear@gmail.com
+- **Discord:** :computer: based.sephardi#8198
+- **Email:** :email: yosileyid@gmail.com
