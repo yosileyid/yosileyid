@@ -8,7 +8,7 @@ I am currently working on adding more repos of local development I have done, I 
 
 ### :mailbox: Get in touch
 
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) based.sephardi#8198
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [based.sephardi#8198](https://discordapp.com/users/based.sephardi#8198)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) yosileyid@gmail.com
 
 ### Certificates
