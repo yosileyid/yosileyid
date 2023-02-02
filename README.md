@@ -4,16 +4,18 @@ ANYTHING JavaScript, TypeScript/Deno, ECMAScript, or python, I would love to hel
 
 ## :construction_worker: What I'm Working On
 
-I am currently working on adding more repos of local development I have done, I work construction and code at night. I want to transition into freelance work. If you have a project you need extra hands on feel free to reach out. I am building a discord bot to assist some functions in my server and run little games and prizes. I am working on my portfolio, and this github account. 
+I am currently working on adding more repos of local development I have done, I work construction and code at night. I want to transition into freelance work. If you have a project you need extra hands on feel free to reach out. I am building a discord bot to assist some functions in my server and run little games and prizes. I am working on my portfolio, and this github account. I also recently created the "[Hasidic Developers Group](https://github.com/hasidicdevs)" on here for other hasidic members of the development community to work together and communicate with one another. It can be quite toxic working in the goyishe world of development and so we communicate and chill with each other on Discord and keep it kosher, come join us today and join our org. We would love to meet you.
 
 ### :mailbox: Get in touch
 
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [based.sephardi#8198](https://discordapp.com/users/based.sephardi#8198)
+- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [hasidic.dev#0613](https://discordapp.com/users/hasidic.dev#0613)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) yosileyid@gmail.com
 
 ### Certificates
 
 [Projects/fcc/Certificates](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates)
+- [Responsive Web Design](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates/ResponsiveWeb)
+- [Data Structures & Algorithms](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates/Algorithms)
 
 ## What I use for...<br>
 ### Collaboration: ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
