@@ -11,12 +11,6 @@ I am currently working on adding more repos of local development I have done, I 
 - [hasidic.dev#0613](https://discordapp.com/users/hasidic.dev#0613)
 - yosileyid@gmail.com
 
-### Certificates
-
-[Projects/fcc/Certificates](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates)
-- [Responsive Web Design](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates/ResponsiveWeb)
-- [Data Structures & Algorithms](https://github.com/hasidicdev/hasidicdev.github.io/tree/main/projects/fcc/Certificates/Algorithms)
-
 ## What I use:
 
 ### Operaring System<br> 
