@@ -8,8 +8,8 @@ I am currently working on adding more repos of local development I have done, I 
 
 ### :mailbox: Get in touch
 
-- ![hasidic.dev#0613](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [hasidic.dev#0613](https://discordapp.com/users/hasidic.dev#0613)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) yosileyid@gmail.com
+- [hasidic.dev#0613](https://discordapp.com/users/hasidic.dev#0613)
+- yosileyid@gmail.com
 
 ### Certificates
 
