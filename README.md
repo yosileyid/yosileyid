@@ -1,14 +1,12 @@
 # Yosi Leyid
 
-## [HasidicDevs](https://github.com/hasidicdevs)
-
 ### I’m looking to collaborate on ...
 
 **Anything** JavaScript / Node.Js, TypeScript / Deno, ECMAScript, or python, I would love to help and contribute more on here. You can get in touch with me via email or in issues in GitHub.I enjoy working with JavaScript and python frameworks and creating apps and extensions for browsers like @mozilla-firefox and @ChromeOs using @reactjs and @nodejs. I have a background in Network Administration and Security (BS) and spent years in InfoSec and Linux Systems Administration. I am more comfortable on the backend, but I am learning more frontend via free code courses online in my spare time. I am currently working on adding more repos of local development I have done, I work construction and code at night. 
 
 I want to transition into freelance work. If you have a project you need extra hands on feel free to reach out. I am building a discord bot to assist some functions in my server and run little games and prizes. I am working on my portfolio, and this github account. I also recently created the "[Hasidic Developers Group](https://github.com/hasidicdevs)" on here for other hasidic members of the development community to work together and communicate with one another. It can be quite toxic working in the goyishe world of development and so we communicate and chill with each other on Discord and keep it kosher, come join us today and join our org. We would love to meet you.
 
-## Get in touch with me :mailbox:
+### Get in touch with me :mailbox:
 
 ```js
 const PROFILES = {
