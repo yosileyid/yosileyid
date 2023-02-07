@@ -1,7 +1,5 @@
 # Welcome to My Profile
 
-## GitHub Profile
-
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=yosileyid&show_icons=true&theme=transparent)
 
 ## Get in touch with me :mailbox:
