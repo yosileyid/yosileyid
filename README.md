@@ -19,7 +19,7 @@ const PROFILES = {
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosileyid&show_icons=true&theme=transparent" style="width: 27vw;" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yosileyid&theme=transparent" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yosileyid&theme=transparent" />-->
 </div>
 Wakatime plugin was just installed it doesn't show exact info so I included the image from my dashboard for now.
 <img src="images/langs.png" />
