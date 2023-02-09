@@ -1,23 +1,37 @@
-# Welcome to My Profile
+# `<YosiLeyid mode="Backend Developer" />`
 
-## I’m looking to collaborate on ...
+I like to write discord bots. I use Node.js and the Discord.js libraries to make simple game and document bots. You can read all about them in the links below. I am also focused on self improvement in coding. I love to organize and document. GitHub allows me an easy endpoint to be as OCD as I want to about my code. I am just setting up my account and it is a work in progress as we all are :-) I run a discord server for a small group of Jewish developers who met on discord and network on there. We decided on the name ["Hasidic Developer Group"](https://github.com/hasidicdevs) or "hdg" we welcome contributions from anyone who can read our org ["Docs"](https://github.com/hasidicdevs/Docs). Consider joining our [DIscord Server](https://discord.gg/KpGXAEnVnv) and joining our team.
 
-**Anything** JavaScript / Node.Js, TypeScript / Deno, ECMAScript, or python, I would love to help and contribute more on here. You can get in touch with me via email or in issues in GitHub.I enjoy working with JavaScript and python frameworks and creating apps and extensions for browsers like @mozilla-firefox and @ChromeOs using @reactjs and @nodejs. I have a background in Network Administration and Security (BS) and spent years in InfoSec and Linux Systems Administration. I am more comfortable on the backend, but I am learning more frontend via free code courses online in my spare time. I am currently working on adding more repos of local development I have done, I work construction and code at night. I want to transition into freelance work. If you have a project you need extra hands on feel free to reach out. I recently published my first package to `npm`. You can see the work being done to it in [@yosileyid/hdg-bot](https://github.com/yosileyid/hdg-bot), and [@yosileyid/Document Support Bot](https://github.com/yosileyid/Document-Support-Bot)
+## Collaboration
 
-## Get in touch with me :mailbox:
+I’m looking to collaborate on **_anything_** JavaScript / Node.Js, TypeScript / Deno, ECMAScript, or python, I would love to help and contribute more on here. Here are the places I am most active online where you can interact with me. If you need to use email, it is listed on the side under my profile picture.
 
-```js
-const PROFILES = {
-  Email   : "yosi@hasidic.dev",
-  Discord : "hasidic.dev#0613",
-  Blog    : "https://dev.to/yosileyid"
-}
-```
-## Languages
+- Discord User: [hasidic.Dev#0613](https://discord.com/user/hasidic.dev#0613)
+- Discord Server: [HDG Server](https://discord.gg/KpGXAEnVnv)
+- GitHub Discussions: [hdg-bot/discussions](https://github.com/orgs/hasidicdevs/discussions)
+- GitHub Projects: [hdg-bot/project](https://github.com/orgs/hasidicdevs/projects/4)
+- Dev.to Blog: [@yosileyid](https://dev.to/yosileyid)
 
-<!-- This image will be replaced with the Wakatime plugin API information in a week or two after it has had some time to build information. This will close issue #xx -->
+## Top-Repos
 
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosileyid&show_icons=true&theme=transparent" style="width: 27vw;" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yosileyid&theme=transparent" />-->
-</div>
+### `hasidicdevs/hdg-bot`
+This started out as a simple tutorial on how to build a bot for discord that only has three files and takes seconds to setup. It is now a NPM package you can install by `npm install hdg-bot` this is the bot base I use to create other bots that need access to the features built into hdg-bot so I don't need to code them over and over again. You can find the package on [NPM here](https://npmjs.com/package/hdg-bot) and get support in our server listed below.
+
+### `yosileyid/dsb/`
+"Document Support Bot" written using "hdg-bot" to implement the bot package. It is a work in progress to mainly be used for referencing docs on sefaria.org and github.com and reference documents from `hdg/Docs` I have plans to expand it to play small games and implement a leveling system.
+
+### `CodeFolio/`
+
+This is my online code portfolio. It has links to some of the other repos I use for project building and code solving for fun. This started off as my repo to hold @FreeCodeCamp certifications and projects needed for their courses, but as I added on more projects and sites it grew too difficult to manage and I had to split it into more. The linked repos are listed below.
+
+- `fcc/`: FreeCodeCamp projects
+- `nsc/`: Nodeschool projects
+- `mpl/`: Mega Project List
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=yosileyid&show_icons=true&theme=transparent" />
+
+## WakaTime Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yosileyid&theme=transparent" />
