@@ -1,5 +1,8 @@
 # `<YosiLeyid mode="Backend Developer" />`
 
+![Screenshot 2023-02-09 12 52 38 PM](https://user-images.githubusercontent.com/14003326/217905523-ace96627-1417-4c8a-bbaf-a9b23248e6d4.png)
+
+
 I like to write discord bots. I use Node.js and the Discord.js libraries to make simple game and document bots. You can read all about them in the links below. I am also focused on self improvement in coding. I love to organize and document. GitHub allows me an easy endpoint to be as OCD as I want to about my code. I am just setting up my account and it is a work in progress as we all are :-) I run a discord server for a small group of Jewish developers who met on discord and network on there. We decided on the name ["Hasidic Developer Group"](https://github.com/hasidicdevs) or "hdg" we welcome contributions from anyone who can read our org ["Docs"](https://github.com/hasidicdevs/Docs). Consider joining our [DIscord Server](https://discord.gg/KpGXAEnVnv) and joining our team.
 
 ## Collaboration
